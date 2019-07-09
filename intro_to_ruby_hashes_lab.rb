@@ -23,10 +23,10 @@ def monopoly
 	  :b_and_o_railroads =>
 	  {
 	    "mortgage_value" => "$400"
-	      },
-	      :shortlines => 
+	   },
+	   :shortlines => 
 	      {
-	    "mortgage_value => "$800"
+	    "mortgage_value" => "$800"   
 	      }
 	}
 	}
