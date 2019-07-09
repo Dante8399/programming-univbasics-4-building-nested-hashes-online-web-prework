@@ -27,7 +27,7 @@ def monopoly
 	   :shortlines => 
 	      {
 	    "mortgage_value" => "$800"   
-	      }
+	      }{
 	}
 	}
 	}
